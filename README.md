@@ -166,9 +166,9 @@ MoodTune was created by:
 
 - **Arjun Rao** (Frontend Development)
 - **Sai Yadavalli** (Backend Development)
-- **Rodolfo Figueroa** (Kaggle dataset: https://www.kaggle.com/datasets/rodolfofigueroa/spotify-12m-songs)
 
 > 🧠 This project actively uses key data structures such as heaps/priority queues and linked lists in its core logic. We're also integrating graph data structures for enhanced visualizations in the frontend.
+> The dataset for the project was found on Kaggle and created by Rodolfo Figueroa (link to Kaggle dataset: https://www.kaggle.com/datasets/rodolfofigueroa/spotify-12m-songs). 
 
 Thank you for using MoodTune to enhance your music experience!
 
