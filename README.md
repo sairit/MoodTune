@@ -164,8 +164,8 @@ To convert a playlist between Spotify and YouTube Music:
 
 MoodTune was created by:
 
-- **Arjun Rao** (frontend)
-- **Sai Yadavalli** (backend)
+- **Arjun Rao**
+- **Sai Yadavalli**
 
 > 🧠 This project actively uses key data structures such as heaps/priority queues and linked lists in its core logic. We're also integrating graph data structures for enhanced visualizations in the frontend.
 
