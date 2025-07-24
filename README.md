@@ -1,10 +1,10 @@
-# 🎵 MoodTune
+# MoodTune
 
 Welcome to **MoodTune**! This guide walks you through setting up, using, and enjoying features of our application to create playlists tailored to your mood.
 
 ---
 
-## 📚 Table of Contents
+## Table of Contents
 
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
@@ -20,7 +20,7 @@ Welcome to **MoodTune**! This guide walks you through setting up, using, and enj
 
 ---
 
-## 🧠 Introduction
+## Introduction
 
 **MoodTune** creates personalized playlists that match your emotional state, environment, and activity.
 
@@ -29,13 +29,13 @@ With MoodTune, you can:
 - Convert playlists between Spotify and YouTube Music
 - Save and export playlists for cross-platform enjoyment
 
-> 🚧 **Note:** Frontend development is currently in progress. We're working on implementing a visual interface with graph-based song relationship visualizations.
+> **Note:** Frontend development is currently in progress. We're working on implementing a visual interface with graph-based song relationship visualizations.
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
-### ✅ Requirements
+### Requirements
 
 You’ll need the following:
 
@@ -48,7 +48,7 @@ You’ll need the following:
 
 ---
 
-### 🛠️ Setting Up MoodTune
+### Setting Up MoodTune
 
 1. **Clone the Repository**
 
@@ -88,9 +88,9 @@ You’ll need the following:
 
 ---
 
-## 🎧 Using MoodTune
+## Using MoodTune
 
-### 🎼 Playlist Generation
+### Playlist Generation
 
 To create a custom playlist:
 
@@ -116,13 +116,13 @@ To create a custom playlist:
    - **Number of Songs**
    - **Playlist Name** (optional)
 
-4. 🎉 After generation, a new link will be displayed. Paste it into your browser to view your playlist.
+4. After generation, a new link will be displayed. Paste it into your browser to view your playlist.
 
-5. 📊 Optionally, a visualization of song relationships will also be shown.
+5. Optionally, a visualization of song relationships will also be shown.
 
 ---
 
-### 🔁 Playlist Conversion
+### Playlist Conversion
 
 To convert a playlist between Spotify and YouTube Music:
 
@@ -142,11 +142,11 @@ To convert a playlist between Spotify and YouTube Music:
    - **Target Platform** (spotify or youtube)
    - **Playlist URL**
 
-4. ✅ A link to the converted playlist will be displayed.
+4. A link to the converted playlist will be displayed.
 
 ---
 
-## 💡 Tips and Best Practices
+## Tips and Best Practices
 
 - Ensure your **seed playlist is public**
 - Try different combinations of **energy**, **valence**, **activity**, and **environment**
@@ -154,20 +154,20 @@ To convert a playlist between Spotify and YouTube Music:
 
 ---
 
-## 🖼️ Visual Usage Examples
+## Visual Usage Examples
 
-👉 [View Examples on Google Drive](https://drive.google.com/drive/folders/14DHbQ6ubRU19QNuc3-DYvnkC-rhaGiFq?usp=sharing)
+[View Examples on Google Drive](https://drive.google.com/drive/folders/14DHbQ6ubRU19QNuc3-DYvnkC-rhaGiFq?usp=sharing)
 
 ---
 
-## 🙌 Credits
+## Credits
 
 MoodTune was created by:
 
 - **Arjun Rao**
 - **Sai Yadavalli**
 
-> 🧠 This project actively uses key data structures such as heaps/priority queues and linked lists in its core logic. We're also integrating graph data structures for enhanced visualizations in the frontend.
+> This project actively uses key data structures such as heaps/priority queues and linked lists in its core logic. We're also integrating graph data structures for enhanced visualizations in the frontend.
 
 Thank you for using MoodTune to enhance your music experience!
 
